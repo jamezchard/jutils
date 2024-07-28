@@ -1,0 +1,12 @@
+---
+BasedOnStyle:  Microsoft
+AllowShortEnumsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: Yes
+ColumnLimit: 120
+SortIncludes: false
+...
+
